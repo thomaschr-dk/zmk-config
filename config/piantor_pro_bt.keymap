@@ -102,7 +102,7 @@
             //                    | GUI | LWR | SPC | ENT | RSE  | ALT |
 
             bindings = <
-&kp ESCAPE  &kp Q  &kp W  &kp F  &kp P  &kp B  &kp J  &kp L  &kp U  &kp Y  &kp SEMICOLON  &kp BACKSLASH  &kp BACKSPACE  &hml LEFT_GUI A  &hml LEFT_ALT R  &hml LEFT_SHIFT S  &hml LCTRL T  &kp G  &kp M  &hmr RCTRL N  &hmr RIGHT_SHIFT E  &hmr RIGHT_ALT I  &hmr RCMD O  &kp SQT  &kp TAB  &kp Z  &kp X  &kp C  &kp D  &kp V  &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH  &kp MINUS  &lt 2 ESCAPE  &lt 1 SPACE  &hml LS(LA(LG(LCTRL))) SPACE  &lt 4 ENTER  &lt 3 RCTRL  &lt 5 DELETE
+&kp ESCAPE  &kp Q  &kp W  &kp F  &kp P  &kp B  &kp J  &kp L  &kp U  &kp Y  &kp SEMICOLON  &kp BACKSLASH  &kp BACKSPACE  &hml LEFT_GUI A  &hml LEFT_ALT R  &hml LEFT_SHIFT S  &hml LCTRL T  &kp G  &kp M  &hmr RCTRL N  &hmr RIGHT_SHIFT E  &hmr RIGHT_ALT I  &hmr RCMD O  &kp SQT  &kp TAB  &kp Z  &kp X  &kp C  &kp D  &kp V  &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH  &kp MINUS  &lt 2 ESCAPE  &lt 1 SPACE  &hml LS(LA(LG(LCTRL))) TAB  &lt 4 ENTER  &lt 3 RCTRL  &lt 5 DELETE
             >;
 
             label = "BASE";
