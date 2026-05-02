@@ -88,13 +88,13 @@
             layers = <0>;
         };
 
-        hyper_left {
-            bindings = <&kp LS(LA(LG(LCTRL)))>;
+        leaderkey_left {
+            bindings = <&kp LS(LA(LG(LC(A))))>;
             key-positions = <16 15 14 13>;
         };
 
-        hyper_right {
-            bindings = <&kp RS(RA(RG(RCTRL)))>;
+        leaderkey_right {
+            bindings = <&kp RS(RA(RG(RC(A))))>;
             key-positions = <19 20 21 22>;
         };
 
